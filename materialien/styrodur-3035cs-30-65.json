@@ -17,5 +17,10 @@
       "einheit": "W/(m·K)"
     }
   },
-  "links": []
+  "links": [
+    {
+      "beschriftung": "Datenblatt",
+      "url": "https://www.styrodur.de/wp-content/uploads/2026/03/db-261029-styrodur-3035-cs-datenblatt.pdf"
+    }
+  ]
 }
