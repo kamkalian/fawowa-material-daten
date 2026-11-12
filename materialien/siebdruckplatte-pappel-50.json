@@ -1,11 +1,11 @@
 {
   "id": 50,
-  "name_de": "Siebdruckplatte Pappel",
+  "name_de": "Siebdruckplatte_Pappel",
   "name_en": "Poplar film-faced plywood",
   "kategorie": "holz",
   "status": "veroeffentlicht",
   "erstellt_am": "2026-11-11 13:53:46",
-  "geaendert_am": "2026-11-11 15:51:59",
+  "geaendert_am": "2026-11-12 14:21:25",
   "werte": {
     "staerke": {
       "zahl": 8,
