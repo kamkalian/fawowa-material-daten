@@ -20,6 +20,11 @@
     "waermewert": {
       "zahl": 1.82,
       "einheit": "W/(m·K)"
+    },
+    "material": {
+      "optionen": [
+        "PS (Polystyrol)"
+      ]
     }
   },
   "links": []
