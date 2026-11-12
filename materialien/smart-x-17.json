@@ -17,5 +17,14 @@
       "einheit": "kg/m²"
     }
   },
-  "links": []
+  "links": [
+    {
+      "beschriftung": "Allgemeine Produktbeschreibung",
+      "url": "https://www.display.3acomposites.com/de/produkte/nach-marke/smart-x-r/"
+    },
+    {
+      "beschriftung": "Produktseite",
+      "url": "https://www.display.3acomposites.com/de/produkte/details/smart-x-registrierte-marke-1118/"
+    }
+  ]
 }
