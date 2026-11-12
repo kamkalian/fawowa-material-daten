@@ -5,13 +5,11 @@
   "status": "veroeffentlicht",
   "notiz_de": "Wärmewert passt nicht zur Wärmeleitfähigkeit von XPS; Größe unklar",
   "erstellt_am": "2026-11-11 13:53:46",
-  "geaendert_am": "2026-11-11 13:53:46",
+  "geaendert_am": "2026-11-12 13:34:19",
   "werte": {
     "staerke": {
       "zahl": 10,
-      "einheit": "mm",
-      "vermerk_de": "ungeprüft",
-      "vermerk_en": "unverified"
+      "einheit": "mm"
     },
     "gewicht": {
       "zahl": 0.3,
