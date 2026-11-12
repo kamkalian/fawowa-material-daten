@@ -17,7 +17,7 @@
       "einheit": "kg/m²"
     },
     "waermewert": {
-      "zahl": 0.04,
+      "zahl": 0.0404,
       "einheit": "W/(m·K)"
     }
   },
