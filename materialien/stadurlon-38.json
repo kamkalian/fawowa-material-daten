@@ -17,6 +17,10 @@
       "einheit": "kg/m²",
       "vermerk_de": "ungeprüft",
       "vermerk_en": "unverified"
+    },
+    "waermewert": {
+      "zahl": 1.45,
+      "einheit": "W/(m·K)"
     }
   },
   "links": []
