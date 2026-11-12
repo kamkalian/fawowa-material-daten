@@ -16,7 +16,9 @@
       "einheit": "kg/m²"
     },
     "material": {
-      "option": "PP (Polypropylen)"
+      "optionen": [
+        "PP (Polypropylen)"
+      ]
     }
   },
   "links": []

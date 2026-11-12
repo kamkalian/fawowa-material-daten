@@ -21,7 +21,9 @@
       "einheit": "W/(m·K)"
     },
     "material": {
-      "option": "PE (Polyethylen)"
+      "optionen": [
+        "PE (Polyethylen)"
+      ]
     }
   },
   "links": [

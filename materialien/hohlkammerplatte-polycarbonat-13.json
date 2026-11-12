@@ -16,7 +16,9 @@
       "einheit": "kg/m²"
     },
     "material": {
-      "option": "PC (Polycarbonat)"
+      "optionen": [
+        "PC (Polycarbonat)"
+      ]
     }
   },
   "links": []
