@@ -1,12 +1,12 @@
 {
   "id": 5,
-  "name_de": "Polsterstoff gesteppt",
+  "name_de": "Polsterstoff_4_gesteppt",
   "name_en": "Quilted upholstery fabric",
   "kategorie": "textil",
   "status": "veroeffentlicht",
   "notiz_de": "Stärke nur in der zweiten Forenliste genannt",
   "erstellt_am": "2026-11-11 13:53:46",
-  "geaendert_am": "2026-11-11 13:53:46",
+  "geaendert_am": "2026-11-12 10:35:15",
   "werte": {
     "staerke": {
       "zahl": 4,
