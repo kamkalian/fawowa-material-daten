@@ -87,6 +87,11 @@
         "id": 2,
         "de": "PP (Polypropylen)",
         "en": "PP (Polypropylen)"
+      },
+      {
+        "id": 3,
+        "de": "PC (Polycarbonat)",
+        "en": "PC (Polycarbonat)"
       }
     ]
   }
