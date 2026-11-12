@@ -1,11 +1,11 @@
 {
   "id": 2,
-  "name_de": "Polsterstoff",
+  "name_de": "Polsterstoff_1",
   "name_en": "Upholstery fabric",
   "kategorie": "textil",
   "status": "veroeffentlicht",
   "erstellt_am": "2026-11-11 13:53:46",
-  "geaendert_am": "2026-11-11 13:53:46",
+  "geaendert_am": "2026-11-12 10:35:03",
   "werte": {
     "staerke": {
       "zahl": 1,
