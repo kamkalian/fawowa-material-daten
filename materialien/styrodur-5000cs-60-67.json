@@ -17,5 +17,10 @@
       "einheit": "W/(m·K)"
     }
   },
-  "links": []
+  "links": [
+    {
+      "beschriftung": "Datenblatt",
+      "url": "https://www.styrodur.de/wp-content/uploads/2025/12/db-260611-styrodur-5000cs-datenblatt.pdf"
+    }
+  ]
 }
