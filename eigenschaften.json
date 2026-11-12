@@ -80,8 +80,13 @@
     "optionen": [
       {
         "id": 1,
-        "de": "PE",
-        "en": "PE"
+        "de": "PE (Polyethylen)",
+        "en": "PE (Polyethylen)"
+      },
+      {
+        "id": 2,
+        "de": "PP (Polypropylen)",
+        "en": "PP (Polypropylen)"
       }
     ]
   }
