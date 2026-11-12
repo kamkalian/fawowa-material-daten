@@ -5,13 +5,11 @@
   "status": "veroeffentlicht",
   "notiz_de": "25 mm ist vermutlich die Bandbreite und nicht die Stärke",
   "erstellt_am": "2026-11-11 13:53:46",
-  "geaendert_am": "2026-11-11 13:53:46",
+  "geaendert_am": "2026-11-12 14:05:23",
   "werte": {
     "staerke": {
       "zahl": 25,
-      "einheit": "mm",
-      "vermerk_de": "ungeprüft",
-      "vermerk_en": "unverified"
+      "einheit": "mm"
     },
     "gewicht": {
       "zahl": 0.9,
