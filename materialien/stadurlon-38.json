@@ -10,9 +10,7 @@
   "werte": {
     "staerke": {
       "zahl": 20,
-      "einheit": "mm",
-      "vermerk_de": "ungeprüft",
-      "vermerk_en": "unverified"
+      "einheit": "mm"
     },
     "gewicht": {
       "zahl": 3.5,
