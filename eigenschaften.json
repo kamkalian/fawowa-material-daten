@@ -77,6 +77,12 @@
     "typ": "auswahl",
     "standard_sichtbar": false,
     "filterbar": true,
-    "optionen": []
+    "optionen": [
+      {
+        "id": 1,
+        "de": "PE",
+        "en": "PE"
+      }
+    ]
   }
 ]
