@@ -6,13 +6,11 @@
   "status": "veroeffentlicht",
   "notiz_de": "Rechnerisch 0.54 kg/m² bei 2700 kg/m³",
   "erstellt_am": "2026-11-11 13:53:46",
-  "geaendert_am": "2026-11-11 13:53:46",
+  "geaendert_am": "2026-11-12 13:30:43",
   "werte": {
     "staerke": {
       "zahl": 0.2,
-      "einheit": "mm",
-      "vermerk_de": "ungeprüft",
-      "vermerk_en": "unverified"
+      "einheit": "mm"
     },
     "gewicht": {
       "zahl": 0.496,
