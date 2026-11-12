@@ -93,6 +93,16 @@
         "id": 3,
         "de": "PC (Polycarbonat)",
         "en": "PC (Polycarbonat)"
+      },
+      {
+        "id": 4,
+        "de": "HIPS (High Impact Polystyrol)",
+        "en": "HIPS (High Impact Polystyrol)"
+      },
+      {
+        "id": 5,
+        "de": "PS (Polystyrol)",
+        "en": "PS (Polystyrol)"
       }
     ]
   }
