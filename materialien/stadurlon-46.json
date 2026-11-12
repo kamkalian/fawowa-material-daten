@@ -7,7 +7,7 @@
   "status": "veroeffentlicht",
   "notiz_de": "Schwerer als die 20-mm-Platte; möglicherweise andere Deckschichten",
   "erstellt_am": "2026-11-11 13:53:46",
-  "geaendert_am": "2026-11-12 13:56:19",
+  "geaendert_am": "2026-11-12 13:56:20",
   "werte": {
     "staerke": {
       "zahl": 16,
@@ -27,5 +27,14 @@
       ]
     }
   },
-  "links": []
+  "links": [
+    {
+      "beschriftung": "Herstellerseite",
+      "url": "https://www.stadur.com/"
+    },
+    {
+      "beschriftung": "Produktseite",
+      "url": "https://www.stegplattenshop.com/Stadurlon-Sandwichelemente-20mm-in-weiss/1d87ffc221e947e4a2b20744aab81e5f"
+    }
+  ]
 }
