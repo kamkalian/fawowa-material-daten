@@ -68,5 +68,15 @@
     "standard_einheit": "kg/m",
     "standard_sichtbar": false,
     "filterbar": true
+  },
+  {
+    "id": 8,
+    "kurzwort": "material",
+    "name_de": "Material",
+    "name_en": "Material",
+    "typ": "auswahl",
+    "standard_sichtbar": false,
+    "filterbar": true,
+    "optionen": []
   }
 ]
