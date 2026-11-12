@@ -6,7 +6,7 @@
   "kategorie": "schaum-daemmung",
   "status": "veroeffentlicht",
   "erstellt_am": "2026-11-11 13:53:46",
-  "geaendert_am": "2026-11-12 10:32:12",
+  "geaendert_am": "2026-11-12 11:20:23",
   "werte": {
     "staerke": {
       "zahl": 10,
@@ -23,8 +23,12 @@
   },
   "links": [
     {
-      "beschriftung": "Link",
+      "beschriftung": "Link zum Hersteller",
       "url": "https://www.zotefoams.com/our-materials/azote/evazote/"
+    },
+    {
+      "beschriftung": "Link zum Shop",
+      "url": "https://www.extremtextil.de/evazote-ev-50-4mm-plattenware-200x100cm/71391"
     }
   ]
 }
