@@ -6,7 +6,7 @@
   "status": "veroeffentlicht",
   "notiz_de": "Wärmewert passt nicht zur Wärmeleitfähigkeit von Kiefer; Größe unklar",
   "erstellt_am": "2026-11-11 13:53:46",
-  "geaendert_am": "2026-11-11 13:53:46",
+  "geaendert_am": "2026-11-12 13:33:42",
   "werte": {
     "staerke": {
       "zahl": 20,
@@ -21,10 +21,8 @@
       "vermerk_en": "unverified"
     },
     "waermewert": {
-      "zahl": 3.3,
-      "einheit": "W/(m²K)",
-      "vermerk_de": "ungeprüft",
-      "vermerk_en": "unverified"
+      "zahl": 0.22,
+      "einheit": "W/(m²K)"
     }
   },
   "links": []
