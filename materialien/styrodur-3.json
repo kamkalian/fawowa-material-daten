@@ -13,9 +13,7 @@
     },
     "gewicht": {
       "zahl": 0.3,
-      "einheit": "kg/m²",
-      "vermerk_de": "ungeprüft",
-      "vermerk_en": "unverified"
+      "einheit": "kg/m²"
     },
     "waermewert": {
       "zahl": 0.27,
