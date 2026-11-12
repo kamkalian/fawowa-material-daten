@@ -6,11 +6,15 @@
   "kategorie": "schaum-daemmung",
   "status": "veroeffentlicht",
   "erstellt_am": "2026-11-12 10:45:07",
-  "geaendert_am": "2026-11-12 10:45:07",
+  "geaendert_am": "2026-11-12 10:45:08",
   "werte": {
     "staerke": {
       "zahl": 20,
       "einheit": "mm"
+    },
+    "waermewert": {
+      "zahl": 0.033,
+      "einheit": "W/(m·K)"
     }
   },
   "links": []
