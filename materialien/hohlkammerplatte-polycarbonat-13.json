@@ -1,11 +1,11 @@
 {
   "id": 13,
-  "name_de": "Hohlkammerplatte Polycarbonat",
+  "name_de": "Hohlkammerplatte_Polycarbonat",
   "name_en": "Polycarbonate twinwall sheet",
   "kategorie": "kunststoff",
   "status": "veroeffentlicht",
   "erstellt_am": "2026-11-11 13:53:46",
-  "geaendert_am": "2026-11-11 13:53:46",
+  "geaendert_am": "2026-11-12 12:58:34",
   "werte": {
     "staerke": {
       "zahl": 4,
