@@ -1,10 +1,12 @@
 {
   "id": 17,
   "name_de": "Smart-X",
+  "name_en": "Smart-X",
+  "hersteller": "3A Composites GmbH",
   "kategorie": "verbundplatte",
   "status": "veroeffentlicht",
   "erstellt_am": "2026-11-11 13:53:46",
-  "geaendert_am": "2026-11-11 13:53:46",
+  "geaendert_am": "2026-11-12 13:05:37",
   "werte": {
     "staerke": {
       "zahl": 5,
