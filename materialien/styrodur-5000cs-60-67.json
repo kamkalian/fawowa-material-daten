@@ -11,6 +11,10 @@
     "staerke": {
       "zahl": 60,
       "einheit": "mm"
+    },
+    "waermewert": {
+      "zahl": 0.035,
+      "einheit": "W/(m·K)"
     }
   },
   "links": []
