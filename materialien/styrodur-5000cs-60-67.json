@@ -7,6 +7,11 @@
   "status": "veroeffentlicht",
   "erstellt_am": "2026-11-12 10:52:32",
   "geaendert_am": "2026-11-12 10:52:32",
-  "werte": {},
+  "werte": {
+    "staerke": {
+      "zahl": 60,
+      "einheit": "mm"
+    }
+  },
   "links": []
 }
