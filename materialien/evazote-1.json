@@ -6,7 +6,7 @@
   "kategorie": "schaum-daemmung",
   "status": "veroeffentlicht",
   "erstellt_am": "2026-11-11 13:53:46",
-  "geaendert_am": "2026-11-12 10:33:44",
+  "geaendert_am": "2026-11-12 11:19:15",
   "werte": {
     "staerke": {
       "zahl": 4,
@@ -17,7 +17,7 @@
       "einheit": "kg/m²"
     },
     "waermewert": {
-      "zahl": 0.04,
+      "zahl": 0.0404,
       "einheit": "W/(m·K)"
     }
   },
