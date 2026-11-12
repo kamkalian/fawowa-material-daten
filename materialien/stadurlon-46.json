@@ -16,6 +16,10 @@
     "gewicht": {
       "zahl": 3.7,
       "einheit": "kg/m²"
+    },
+    "waermewert": {
+      "zahl": 1.82,
+      "einheit": "W/(m·K)"
     }
   },
   "links": []
