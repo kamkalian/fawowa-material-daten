@@ -24,5 +24,10 @@
       "einheit": "W/(m·K)"
     }
   },
-  "links": []
+  "links": [
+    {
+      "beschriftung": "Link",
+      "url": "https://www.zotefoams.com/our-materials/azote/evazote/"
+    }
+  ]
 }
