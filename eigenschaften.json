@@ -22,7 +22,7 @@
   {
     "id": 3,
     "kurzwort": "waermewert",
-    "name_de": "Wärmewert",
+    "name_de": "Wärmeleitwert",
     "name_en": "Thermal value",
     "typ": "zahl",
     "standard_einheit": "W/(m·K)",
