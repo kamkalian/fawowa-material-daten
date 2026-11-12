@@ -6,13 +6,11 @@
   "status": "veroeffentlicht",
   "notiz_de": "Wärmewert stand im Forum bei einer verworfenen 10-mm-Zeile; Größe unklar",
   "erstellt_am": "2026-11-11 13:53:46",
-  "geaendert_am": "2026-11-11 13:53:46",
+  "geaendert_am": "2026-11-12 14:05:30",
   "werte": {
     "staerke": {
       "zahl": 0.2,
-      "einheit": "mm",
-      "vermerk_de": "ungeprüft",
-      "vermerk_en": "unverified"
+      "einheit": "mm"
     },
     "gewicht": {
       "zahl": 0.4,
