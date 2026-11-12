@@ -1,10 +1,12 @@
 {
   "id": 1,
-  "name_de": "Evazote",
+  "name_de": "Evazote_4",
+  "name_en": "Evazote_4",
+  "hersteller": "Zotefoams plc.",
   "kategorie": "schaum-daemmung",
   "status": "veroeffentlicht",
   "erstellt_am": "2026-11-11 13:53:46",
-  "geaendert_am": "2026-11-11 13:53:46",
+  "geaendert_am": "2026-11-12 10:29:39",
   "werte": {
     "staerke": {
       "zahl": 4,
