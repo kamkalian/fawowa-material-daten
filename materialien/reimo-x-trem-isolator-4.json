@@ -6,7 +6,7 @@
   "kategorie": "schaum-daemmung",
   "status": "veroeffentlicht",
   "erstellt_am": "2026-11-11 13:53:46",
-  "geaendert_am": "2026-11-12 11:02:21",
+  "geaendert_am": "2026-11-12 11:06:17",
   "werte": {
     "staerke": {
       "zahl": 10,
@@ -19,6 +19,9 @@
     "waermewert": {
       "zahl": 0.028,
       "einheit": "W/(m·K)"
+    },
+    "material": {
+      "option": "PE (Polyethylen)"
     }
   },
   "links": [
