@@ -23,8 +23,12 @@
   },
   "links": [
     {
-      "beschriftung": "Link",
+      "beschriftung": "Link zum Hersteller",
       "url": "https://www.zotefoams.com/our-materials/azote/evazote/"
+    },
+    {
+      "beschriftung": "Link zum Shop",
+      "url": "https://www.extremtextil.de/evazote-ev-50-4mm-plattenware-200x100cm/71391"
     }
   ]
 }
