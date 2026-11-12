@@ -1,10 +1,12 @@
 {
   "id": 4,
   "name_de": "Reimo X-Trem Isolator",
+  "name_en": "Reimo X-Trem Isolator",
+  "hersteller": "Reimo Reisemobilcenter GmbH",
   "kategorie": "schaum-daemmung",
   "status": "veroeffentlicht",
   "erstellt_am": "2026-11-11 13:53:46",
-  "geaendert_am": "2026-11-11 13:53:46",
+  "geaendert_am": "2026-11-12 11:02:21",
   "werte": {
     "staerke": {
       "zahl": 10,
