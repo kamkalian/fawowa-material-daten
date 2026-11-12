@@ -6,7 +6,7 @@
   "kategorie": "verbundplatte",
   "status": "veroeffentlicht",
   "erstellt_am": "2026-11-11 13:53:46",
-  "geaendert_am": "2026-11-12 13:05:37",
+  "geaendert_am": "2026-11-12 13:27:17",
   "werte": {
     "staerke": {
       "zahl": 5,
@@ -15,6 +15,12 @@
     "gewicht": {
       "zahl": 1,
       "einheit": "kg/m²"
+    },
+    "material": {
+      "optionen": [
+        "HIPS (High Impact Polystyrol)",
+        "PS (Polystyrol)"
+      ]
     }
   },
   "links": [
