@@ -2,11 +2,12 @@
   "id": 38,
   "name_de": "Stadurlon",
   "name_en": "Stadurlon",
+  "hersteller": "Stadur Produktions GmbH & Co. KG",
   "kategorie": "verbundplatte",
   "status": "veroeffentlicht",
   "notiz_de": "Leichter als die 16-mm-Platte; möglicherweise andere Deckschichten",
   "erstellt_am": "2026-11-11 13:53:46",
-  "geaendert_am": "2026-11-12 13:49:27",
+  "geaendert_am": "2026-11-12 13:50:59",
   "werte": {
     "staerke": {
       "zahl": 20,
