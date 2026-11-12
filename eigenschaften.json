@@ -1,14 +1,5 @@
 [
   {
-    "id": 8,
-    "kurzwort": "hersteller",
-    "name_de": "Hersteller",
-    "name_en": "Manufacturer",
-    "typ": "text",
-    "standard_sichtbar": false,
-    "filterbar": true
-  },
-  {
     "id": 1,
     "kurzwort": "staerke",
     "name_de": "Stärke",
