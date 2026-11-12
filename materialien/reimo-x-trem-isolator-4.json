@@ -1,0 +1,23 @@
+{
+  "id": 4,
+  "name_de": "Reimo X-Trem Isolator",
+  "kategorie": "schaum-daemmung",
+  "status": "veroeffentlicht",
+  "erstellt_am": "2026-11-11 13:53:46",
+  "geaendert_am": "2026-11-11 13:53:46",
+  "werte": {
+    "staerke": {
+      "zahl": 10,
+      "einheit": "mm"
+    },
+    "gewicht": {
+      "zahl": 0.3,
+      "einheit": "kg/m²"
+    },
+    "waermewert": {
+      "zahl": 0.028,
+      "einheit": "W/(m·K)"
+    }
+  },
+  "links": []
+}

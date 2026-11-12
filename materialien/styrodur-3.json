@@ -1,0 +1,30 @@
+{
+  "id": 3,
+  "name_de": "Styrodur",
+  "kategorie": "schaum-daemmung",
+  "status": "veroeffentlicht",
+  "notiz_de": "Wärmewert passt nicht zur Wärmeleitfähigkeit von XPS; Größe unklar",
+  "erstellt_am": "2026-11-11 13:53:46",
+  "geaendert_am": "2026-11-11 13:53:46",
+  "werte": {
+    "staerke": {
+      "zahl": 10,
+      "einheit": "mm",
+      "vermerk_de": "ungeprüft",
+      "vermerk_en": "unverified"
+    },
+    "gewicht": {
+      "zahl": 0.3,
+      "einheit": "kg/m²",
+      "vermerk_de": "ungeprüft",
+      "vermerk_en": "unverified"
+    },
+    "waermewert": {
+      "zahl": 0.27,
+      "einheit": "W/(m²K)",
+      "vermerk_de": "ungeprüft",
+      "vermerk_en": "unverified"
+    }
+  },
+  "links": []
+}

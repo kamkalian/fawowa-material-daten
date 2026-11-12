@@ -1,0 +1,20 @@
+{
+  "id": 8,
+  "name_de": "Carbon-Platte",
+  "name_en": "Carbon sheet",
+  "kategorie": "kunststoff",
+  "status": "veroeffentlicht",
+  "erstellt_am": "2026-11-11 13:53:46",
+  "geaendert_am": "2026-11-11 13:53:46",
+  "werte": {
+    "staerke": {
+      "zahl": 0.3,
+      "einheit": "mm"
+    },
+    "gewicht": {
+      "zahl": 0.44,
+      "einheit": "kg/m²"
+    }
+  },
+  "links": []
+}

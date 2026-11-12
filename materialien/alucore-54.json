@@ -1,0 +1,19 @@
+{
+  "id": 54,
+  "name_de": "Alucore",
+  "kategorie": "verbundplatte",
+  "status": "veroeffentlicht",
+  "erstellt_am": "2026-11-11 13:53:46",
+  "geaendert_am": "2026-11-11 13:53:46",
+  "werte": {
+    "staerke": {
+      "zahl": 10,
+      "einheit": "mm"
+    },
+    "gewicht": {
+      "zahl": 5,
+      "einheit": "kg/m²"
+    }
+  },
+  "links": []
+}

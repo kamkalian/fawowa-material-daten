@@ -1,0 +1,24 @@
+{
+  "id": 46,
+  "name_de": "Stadurlon",
+  "kategorie": "verbundplatte",
+  "status": "veroeffentlicht",
+  "notiz_de": "Schwerer als die 20-mm-Platte; möglicherweise andere Deckschichten",
+  "erstellt_am": "2026-11-11 13:53:46",
+  "geaendert_am": "2026-11-11 13:53:46",
+  "werte": {
+    "staerke": {
+      "zahl": 16,
+      "einheit": "mm",
+      "vermerk_de": "ungeprüft",
+      "vermerk_en": "unverified"
+    },
+    "gewicht": {
+      "zahl": 4.07,
+      "einheit": "kg/m²",
+      "vermerk_de": "ungeprüft",
+      "vermerk_en": "unverified"
+    }
+  },
+  "links": []
+}

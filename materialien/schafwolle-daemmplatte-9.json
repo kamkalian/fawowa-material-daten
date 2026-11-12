@@ -1,0 +1,20 @@
+{
+  "id": 9,
+  "name_de": "Schafwolle-Dämmplatte",
+  "name_en": "Sheep wool insulation board",
+  "kategorie": "schaum-daemmung",
+  "status": "veroeffentlicht",
+  "erstellt_am": "2026-11-11 13:53:46",
+  "geaendert_am": "2026-11-11 13:53:46",
+  "werte": {
+    "staerke": {
+      "zahl": 20,
+      "einheit": "mm"
+    },
+    "gewicht": {
+      "zahl": 0.48,
+      "einheit": "kg/m²"
+    }
+  },
+  "links": []
+}

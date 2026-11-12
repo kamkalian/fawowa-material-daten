@@ -1,0 +1,19 @@
+{
+  "id": 43,
+  "name_de": "MonoPan",
+  "kategorie": "verbundplatte",
+  "status": "veroeffentlicht",
+  "erstellt_am": "2026-11-11 13:53:46",
+  "geaendert_am": "2026-11-11 13:53:46",
+  "werte": {
+    "staerke": {
+      "zahl": 15,
+      "einheit": "mm"
+    },
+    "gewicht": {
+      "zahl": 3.9,
+      "einheit": "kg/m²"
+    }
+  },
+  "links": []
+}

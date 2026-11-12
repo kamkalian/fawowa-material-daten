@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "slug": "holz",
+    "name_de": "Holz",
+    "name_en": "Wood",
+    "icon": "trees"
+  },
+  {
+    "id": 3,
+    "slug": "metall",
+    "name_de": "Metall",
+    "name_en": "Metal",
+    "icon": "metal-beam"
+  },
+  {
+    "id": 4,
+    "slug": "schaum-daemmung",
+    "name_de": "Schaum und Dämmung",
+    "name_en": "Foam and insulation",
+    "icon": "foam-bubbles"
+  },
+  {
+    "id": 5,
+    "slug": "kunststoff",
+    "name_de": "Kunststoff",
+    "name_en": "Plastic",
+    "icon": "plastic-bottle"
+  },
+  {
+    "id": 6,
+    "slug": "verbundplatte",
+    "name_de": "Verbundplatte",
+    "name_en": "Composite panel",
+    "icon": "sandwich-panel"
+  },
+  {
+    "id": 7,
+    "slug": "textil",
+    "name_de": "Textil",
+    "name_en": "Textile",
+    "icon": "shirt"
+  },
+  {
+    "id": 8,
+    "slug": "staebe-leisten",
+    "name_de": "Stäbe, Leisten und Sonstiges",
+    "name_en": "Rods, strips and other",
+    "icon": "ruler"
+  }
+]

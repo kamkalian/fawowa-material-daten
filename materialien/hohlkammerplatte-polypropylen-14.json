@@ -1,0 +1,20 @@
+{
+  "id": 14,
+  "name_de": "Hohlkammerplatte Polypropylen",
+  "name_en": "Polypropylene twinwall sheet",
+  "kategorie": "kunststoff",
+  "status": "veroeffentlicht",
+  "erstellt_am": "2026-11-11 13:53:46",
+  "geaendert_am": "2026-11-11 13:53:46",
+  "werte": {
+    "staerke": {
+      "zahl": 4,
+      "einheit": "mm"
+    },
+    "gewicht": {
+      "zahl": 0.8,
+      "einheit": "kg/m²"
+    }
+  },
+  "links": []
+}

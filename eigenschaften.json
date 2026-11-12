@@ -1,0 +1,81 @@
+[
+  {
+    "id": 8,
+    "kurzwort": "hersteller",
+    "name_de": "Hersteller",
+    "name_en": "Manufacturer",
+    "typ": "text",
+    "standard_sichtbar": false,
+    "filterbar": true
+  },
+  {
+    "id": 1,
+    "kurzwort": "staerke",
+    "name_de": "Stärke",
+    "name_en": "Thickness",
+    "typ": "zahl",
+    "standard_einheit": "mm",
+    "standard_sichtbar": true,
+    "filterbar": true
+  },
+  {
+    "id": 2,
+    "kurzwort": "gewicht",
+    "name_de": "Flächengewicht",
+    "name_en": "Area weight",
+    "typ": "zahl",
+    "standard_einheit": "kg/m²",
+    "standard_sichtbar": true,
+    "filterbar": true
+  },
+  {
+    "id": 3,
+    "kurzwort": "waermewert",
+    "name_de": "Wärmewert",
+    "name_en": "Thermal value",
+    "typ": "zahl",
+    "standard_einheit": "W/(m·K)",
+    "standard_sichtbar": true,
+    "filterbar": true
+  },
+  {
+    "id": 4,
+    "kurzwort": "laenge",
+    "name_de": "Länge",
+    "name_en": "Length",
+    "typ": "zahl",
+    "standard_einheit": "m",
+    "standard_sichtbar": false,
+    "filterbar": true
+  },
+  {
+    "id": 5,
+    "kurzwort": "durchmesser",
+    "name_de": "Durchmesser",
+    "name_en": "Diameter",
+    "typ": "zahl",
+    "standard_einheit": "mm",
+    "standard_sichtbar": false,
+    "filterbar": true
+  },
+  {
+    "id": 6,
+    "kurzwort": "stueckgewicht",
+    "name_de": "Stückgewicht",
+    "name_en": "Weight per piece",
+    "typ": "zahl",
+    "standard_einheit": "g",
+    "standard_sichtbar": false,
+    "filterbar": true
+  },
+  {
+    "id": 7,
+    "kurzwort": "gewicht_meter",
+    "name_de": "Gewicht pro Meter",
+    "name_en": "Weight per metre",
+    "typ": "zahl",
+    "standard_einheit": "kg/m",
+    "standard_sichtbar": false,
+    "filterbar": true
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": 6,
+  "name_de": "GFK-Platte",
+  "name_en": "GRP sheet",
+  "kategorie": "kunststoff",
+  "status": "veroeffentlicht",
+  "notiz_de": "Wärmewert stand im Forum bei einer verworfenen 10-mm-Zeile; Größe unklar",
+  "erstellt_am": "2026-11-11 13:53:46",
+  "geaendert_am": "2026-11-11 13:53:46",
+  "werte": {
+    "staerke": {
+      "zahl": 0.2,
+      "einheit": "mm",
+      "vermerk_de": "ungeprüft",
+      "vermerk_en": "unverified"
+    },
+    "gewicht": {
+      "zahl": 0.4,
+      "einheit": "kg/m²",
+      "vermerk_de": "ungeprüft",
+      "vermerk_en": "unverified"
+    },
+    "waermewert": {
+      "zahl": 0.013,
+      "einheit": "W/(m²K)",
+      "vermerk_de": "ungeprüft",
+      "vermerk_en": "unverified"
+    }
+  },
+  "links": []
+}

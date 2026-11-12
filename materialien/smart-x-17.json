@@ -1,0 +1,19 @@
+{
+  "id": 17,
+  "name_de": "Smart-X",
+  "kategorie": "verbundplatte",
+  "status": "veroeffentlicht",
+  "erstellt_am": "2026-11-11 13:53:46",
+  "geaendert_am": "2026-11-11 13:53:46",
+  "werte": {
+    "staerke": {
+      "zahl": 5,
+      "einheit": "mm"
+    },
+    "gewicht": {
+      "zahl": 1,
+      "einheit": "kg/m²"
+    }
+  },
+  "links": []
+}

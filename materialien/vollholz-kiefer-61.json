@@ -1,0 +1,31 @@
+{
+  "id": 61,
+  "name_de": "Vollholz Kiefer",
+  "name_en": "Solid pine",
+  "kategorie": "holz",
+  "status": "veroeffentlicht",
+  "notiz_de": "Wärmewert passt nicht zur Wärmeleitfähigkeit von Kiefer; Größe unklar",
+  "erstellt_am": "2026-11-11 13:53:46",
+  "geaendert_am": "2026-11-11 13:53:46",
+  "werte": {
+    "staerke": {
+      "zahl": 20,
+      "einheit": "mm",
+      "vermerk_de": "ungeprüft",
+      "vermerk_en": "unverified"
+    },
+    "gewicht": {
+      "zahl": 11,
+      "einheit": "kg/m²",
+      "vermerk_de": "ungeprüft",
+      "vermerk_en": "unverified"
+    },
+    "waermewert": {
+      "zahl": 3.3,
+      "einheit": "W/(m²K)",
+      "vermerk_de": "ungeprüft",
+      "vermerk_en": "unverified"
+    }
+  },
+  "links": []
+}

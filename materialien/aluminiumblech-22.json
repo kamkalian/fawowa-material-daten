@@ -1,0 +1,20 @@
+{
+  "id": 22,
+  "name_de": "Aluminiumblech",
+  "name_en": "Aluminium sheet",
+  "kategorie": "metall",
+  "status": "veroeffentlicht",
+  "erstellt_am": "2026-11-11 13:53:46",
+  "geaendert_am": "2026-11-11 13:53:46",
+  "werte": {
+    "staerke": {
+      "zahl": 0.6,
+      "einheit": "mm"
+    },
+    "gewicht": {
+      "zahl": 1.62,
+      "einheit": "kg/m²"
+    }
+  },
+  "links": []
+}

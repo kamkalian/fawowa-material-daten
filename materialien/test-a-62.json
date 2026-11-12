@@ -1,0 +1,15 @@
+{
+  "id": 62,
+  "name_de": "test_a",
+  "kategorie": "holz",
+  "status": "veroeffentlicht",
+  "erstellt_am": "2026-11-11 21:46:04",
+  "geaendert_am": "2026-11-12 07:14:55",
+  "werte": {},
+  "links": [
+    {
+      "beschriftung": "link1",
+      "url": "https://kurm-industries.de"
+    }
+  ]
+}

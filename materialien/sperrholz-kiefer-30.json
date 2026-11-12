@@ -1,0 +1,20 @@
+{
+  "id": 30,
+  "name_de": "Sperrholz Kiefer",
+  "name_en": "Pine plywood",
+  "kategorie": "holz",
+  "status": "veroeffentlicht",
+  "erstellt_am": "2026-11-11 13:53:46",
+  "geaendert_am": "2026-11-11 15:51:59",
+  "werte": {
+    "staerke": {
+      "zahl": 4,
+      "einheit": "mm"
+    },
+    "gewicht": {
+      "zahl": 2.4,
+      "einheit": "kg/m²"
+    }
+  },
+  "links": []
+}

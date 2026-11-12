@@ -1,0 +1,20 @@
+{
+  "id": 7,
+  "name_de": "Schaumstoff",
+  "name_en": "Foam",
+  "kategorie": "schaum-daemmung",
+  "status": "veroeffentlicht",
+  "erstellt_am": "2026-11-11 13:53:46",
+  "geaendert_am": "2026-11-11 13:53:46",
+  "werte": {
+    "staerke": {
+      "zahl": 10,
+      "einheit": "mm"
+    },
+    "gewicht": {
+      "zahl": 0.41,
+      "einheit": "kg/m²"
+    }
+  },
+  "links": []
+}

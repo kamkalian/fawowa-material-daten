@@ -1,0 +1,21 @@
+{
+  "id": 51,
+  "name_de": "Paulownia Leimholzplatte",
+  "name_en": "Paulownia glued panel",
+  "kategorie": "holz",
+  "status": "veroeffentlicht",
+  "notiz_de": "Plattenmaß 2200 × 600 mm",
+  "erstellt_am": "2026-11-11 13:53:46",
+  "geaendert_am": "2026-11-11 13:53:46",
+  "werte": {
+    "staerke": {
+      "zahl": 18,
+      "einheit": "mm"
+    },
+    "gewicht": {
+      "zahl": 4.7,
+      "einheit": "kg/m²"
+    }
+  },
+  "links": []
+}

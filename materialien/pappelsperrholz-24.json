@@ -1,0 +1,20 @@
+{
+  "id": 24,
+  "name_de": "Pappelsperrholz",
+  "name_en": "Poplar plywood",
+  "kategorie": "holz",
+  "status": "veroeffentlicht",
+  "erstellt_am": "2026-11-11 13:53:46",
+  "geaendert_am": "2026-11-12 08:49:30",
+  "werte": {
+    "staerke": {
+      "zahl": 4,
+      "einheit": "mm"
+    },
+    "gewicht": {
+      "zahl": 1.95,
+      "einheit": "kg/m²"
+    }
+  },
+  "links": []
+}
