@@ -3,7 +3,11 @@
     "id": 2,
     "name": "Anika",
     "abzeichen": [
-      "starthelfer"
+      "starthelfer",
+      "wiederkehrend"
+    ],
+    "auto_abzeichen": [
+      "wiederkehrend"
     ],
     "zustimmung_am": "2026-11-13 08:32:35",
     "zustimmung_art": "manuell"
