@@ -2,7 +2,9 @@
   {
     "id": 2,
     "name": "Anika",
-    "abzeichen": [],
+    "abzeichen": [
+      "starthelfer"
+    ],
     "zustimmung_am": "2026-11-13 08:32:35",
     "zustimmung_art": "manuell"
   }
