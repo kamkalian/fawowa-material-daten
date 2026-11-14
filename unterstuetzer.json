@@ -15,7 +15,12 @@
   {
     "id": 3,
     "name": "Jens B.",
-    "abzeichen": [],
+    "abzeichen": [
+      "wiederkehrend"
+    ],
+    "auto_abzeichen": [
+      "wiederkehrend"
+    ],
     "zustimmung_am": "2026-11-14 10:31:01",
     "zustimmung_art": "kofi-oeffentlich"
   }
