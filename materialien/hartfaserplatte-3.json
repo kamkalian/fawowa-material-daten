@@ -1,0 +1,24 @@
+{
+  "id": 93,
+  "name_de": "Hartfaserplatte",
+  "name_en": "Hardboard",
+  "kategorie": "holz",
+  "status": "entwurf",
+  "notiz_de": "Aus einer Liste eines Forenmitglieds. Quelle: Beitrag im Fahrradwohnwagen-Forum.",
+  "notiz_en": "From a list by a forum member. Source: post in the bicycle caravan forum.",
+  "erstellt_am": "2026-11-14 14:34:36",
+  "geaendert_am": "2026-11-14 14:34:36",
+  "werte": {
+    "staerke": {
+      "zahl": 3,
+      "einheit": "mm"
+    },
+    "gewicht": {
+      "zahl": 3,
+      "einheit": "kg/m²",
+      "vermerk_de": "ungeprüft",
+      "vermerk_en": "unverified"
+    }
+  },
+  "links": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": 98,
+  "name_de": "Persenning (Planenstoff)",
+  "name_en": "Awning tarpaulin fabric",
+  "kategorie": "textil",
+  "status": "entwurf",
+  "notiz_de": "Angaben im Forum: 315 g/m² und 460 g/m² (auch 160 g/m² genannt). Quelle: Beitrag im Fahrradwohnwagen-Forum.",
+  "notiz_en": "Forum posts mention 315 g/m² and 460 g/m² (160 g/m² also mentioned). Source: post in the bicycle caravan forum.",
+  "erstellt_am": "2026-11-14 14:34:36",
+  "geaendert_am": "2026-11-14 14:34:36",
+  "werte": {
+    "gewicht": {
+      "zahl": 0.315,
+      "einheit": "kg/m²",
+      "vermerk_de": "ungeprüft",
+      "vermerk_en": "unverified"
+    }
+  },
+  "links": []
+}

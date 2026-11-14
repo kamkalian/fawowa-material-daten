@@ -4,13 +4,13 @@
   "name_en": "Truck tarpaulin",
   "kategorie": "textil",
   "status": "entwurf",
-  "notiz_de": "Angaben im Forum: etwa 500 g/m² (Plane von Amazon) und 700 bis 900 g/m² (andere Plane). Für das Dach genutzt. Quelle: Beiträge im Fahrradwohnwagen-Forum.",
-  "notiz_en": "Forum posts mention about 500 g/m² (tarpaulin from Amazon) and 700 to 900 g/m² (another tarpaulin). Used for the roof. Source: posts in the bicycle caravan forum.",
+  "notiz_de": "Angaben im Forum: meist etwa 600 g/m² (vier Beiträge), Spanne 500 bis 900 g/m². Für das Dach genutzt. Quelle: Beiträge im Fahrradwohnwagen-Forum.",
+  "notiz_en": "Forum posts mostly mention about 600 g/m² (four posts), range 500 to 900 g/m². Used for the roof. Source: posts in the bicycle caravan forum.",
   "erstellt_am": "2026-11-14 12:24:25",
   "geaendert_am": "2026-11-14 12:24:25",
   "werte": {
     "gewicht": {
-      "zahl": 0.5,
+      "zahl": 0.6,
       "einheit": "kg/m²",
       "vermerk_de": "ungeprüft",
       "vermerk_en": "unverified"

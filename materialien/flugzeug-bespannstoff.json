@@ -1,0 +1,21 @@
+{
+  "id": 91,
+  "name_de": "Flugzeug-Bespannstoff",
+  "name_en": "Aircraft covering fabric",
+  "hersteller": "Friebe",
+  "kategorie": "textil",
+  "status": "entwurf",
+  "notiz_de": "Gewicht laut Herstellerangabe: 58 g/m². Quelle: Beitrag im Fahrradwohnwagen-Forum.",
+  "notiz_en": "Weight according to the manufacturer: 58 g/m². Source: post in the bicycle caravan forum.",
+  "erstellt_am": "2026-11-14 14:34:36",
+  "geaendert_am": "2026-11-14 14:34:36",
+  "werte": {
+    "gewicht": {
+      "zahl": 0.058,
+      "einheit": "kg/m²",
+      "vermerk_de": "ungeprüft",
+      "vermerk_en": "unverified"
+    }
+  },
+  "links": []
+}

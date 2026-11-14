@@ -1,0 +1,30 @@
+{
+  "id": 99,
+  "name_de": "PP/PE-Copolymer-Platte",
+  "name_en": "PP/PE copolymer sheet",
+  "kategorie": "kunststoff",
+  "status": "entwurf",
+  "notiz_de": "Gewicht laut Angabe eines Shops. Quelle: Beitrag im Fahrradwohnwagen-Forum.",
+  "notiz_en": "Weight according to a shop. Source: post in the bicycle caravan forum.",
+  "erstellt_am": "2026-11-14 14:34:36",
+  "geaendert_am": "2026-11-14 14:34:36",
+  "werte": {
+    "staerke": {
+      "zahl": 10,
+      "einheit": "mm"
+    },
+    "gewicht": {
+      "zahl": 1.6,
+      "einheit": "kg/m²",
+      "vermerk_de": "ungeprüft",
+      "vermerk_en": "unverified"
+    },
+    "material": {
+      "optionen": [
+        "PE (Polyethylen)",
+        "PP (Polypropylen)"
+      ]
+    }
+  },
+  "links": []
+}

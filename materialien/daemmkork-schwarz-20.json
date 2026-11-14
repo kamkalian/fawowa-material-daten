@@ -1,0 +1,24 @@
+{
+  "id": 89,
+  "name_de": "Dämmkork (Schwarzkork)",
+  "name_en": "Insulation cork (black cork)",
+  "kategorie": "schaum-daemmung",
+  "status": "entwurf",
+  "notiz_de": "Gewicht laut Datenblatt des Anbieters (kork-deko.de). Quelle: Beitrag im Fahrradwohnwagen-Forum.",
+  "notiz_en": "Weight according to the supplier’s data sheet (kork-deko.de). Source: post in the bicycle caravan forum.",
+  "erstellt_am": "2026-11-14 14:34:36",
+  "geaendert_am": "2026-11-14 14:34:36",
+  "werte": {
+    "staerke": {
+      "zahl": 20,
+      "einheit": "mm"
+    },
+    "gewicht": {
+      "zahl": 2.2,
+      "einheit": "kg/m²",
+      "vermerk_de": "ungeprüft",
+      "vermerk_en": "unverified"
+    }
+  },
+  "links": []
+}

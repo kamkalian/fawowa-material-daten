@@ -1,0 +1,24 @@
+{
+  "id": 86,
+  "name_de": "Acrylglas (Plexiglas)",
+  "name_en": "Acrylic glass (Plexiglas)",
+  "kategorie": "kunststoff",
+  "status": "entwurf",
+  "notiz_de": "Aus einer Liste eines Forenmitglieds. Quelle: Beitrag im Fahrradwohnwagen-Forum.",
+  "notiz_en": "From a list by a forum member. Source: post in the bicycle caravan forum.",
+  "erstellt_am": "2026-11-14 14:34:36",
+  "geaendert_am": "2026-11-14 14:34:36",
+  "werte": {
+    "staerke": {
+      "zahl": 2,
+      "einheit": "mm"
+    },
+    "gewicht": {
+      "zahl": 2.4,
+      "einheit": "kg/m²",
+      "vermerk_de": "ungeprüft",
+      "vermerk_en": "unverified"
+    }
+  },
+  "links": []
+}

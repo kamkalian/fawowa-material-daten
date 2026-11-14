@@ -1,0 +1,20 @@
+{
+  "id": 100,
+  "name_de": "Sommerleinen",
+  "name_en": "Summer linen",
+  "kategorie": "textil",
+  "status": "entwurf",
+  "notiz_de": "Etwa 75 g/m², als Deckschicht genannt. Quelle: Beitrag im Fahrradwohnwagen-Forum.",
+  "notiz_en": "About 75 g/m², mentioned as a covering layer. Source: post in the bicycle caravan forum.",
+  "erstellt_am": "2026-11-14 14:34:36",
+  "geaendert_am": "2026-11-14 14:34:36",
+  "werte": {
+    "gewicht": {
+      "zahl": 0.075,
+      "einheit": "kg/m²",
+      "vermerk_de": "ungeprüft",
+      "vermerk_en": "unverified"
+    }
+  },
+  "links": []
+}

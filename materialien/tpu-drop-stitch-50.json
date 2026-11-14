@@ -1,0 +1,24 @@
+{
+  "id": 101,
+  "name_de": "TPU-Drop-Stitch-Gewebe (aufblasbar)",
+  "name_en": "TPU drop-stitch fabric (inflatable)",
+  "kategorie": "textil",
+  "status": "entwurf",
+  "notiz_de": "Ungefähre Angabe, aufblasbare Platte mit 5 cm Stärke. Quelle: Beitrag im Fahrradwohnwagen-Forum.",
+  "notiz_en": "Approximate value, inflatable panel with 5 cm thickness. Source: post in the bicycle caravan forum.",
+  "erstellt_am": "2026-11-14 14:34:36",
+  "geaendert_am": "2026-11-14 14:34:36",
+  "werte": {
+    "staerke": {
+      "zahl": 50,
+      "einheit": "mm"
+    },
+    "gewicht": {
+      "zahl": 1,
+      "einheit": "kg/m²",
+      "vermerk_de": "ungeprüft",
+      "vermerk_en": "unverified"
+    }
+  },
+  "links": []
+}
