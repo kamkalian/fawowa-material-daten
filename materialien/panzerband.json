@@ -12,5 +12,10 @@
       "einheit": "kg/m²"
     }
   },
-  "links": []
+  "links": [
+    {
+      "beschriftung": "Produktseite von Tesa",
+      "url": "https://www.tesa.com/de-de/buero-und-zuhause/reparatur/panzertape"
+    }
+  ]
 }
