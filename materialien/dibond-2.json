@@ -1,0 +1,23 @@
+{
+  "id": 76,
+  "name_de": "Dibond",
+  "kategorie": "verbundplatte",
+  "status": "entwurf",
+  "notiz_de": "Gewicht laut Herstellerangabe, im Forum zitiert. Quelle: Beitrag im Fahrradwohnwagen-Forum.",
+  "notiz_en": "Weight according to the manufacturer, quoted in the forum. Source: post in the bicycle caravan forum.",
+  "erstellt_am": "2026-11-14 12:32:42",
+  "geaendert_am": "2026-11-14 12:32:42",
+  "werte": {
+    "staerke": {
+      "zahl": 2,
+      "einheit": "mm"
+    },
+    "gewicht": {
+      "zahl": 2.9,
+      "einheit": "kg/m²",
+      "vermerk_de": "ungeprüft",
+      "vermerk_en": "unverified"
+    }
+  },
+  "links": []
+}

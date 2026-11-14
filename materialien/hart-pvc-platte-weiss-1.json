@@ -1,0 +1,25 @@
+{
+  "id": 83,
+  "name_de": "Hart-PVC-Platte weiß",
+  "name_en": "Rigid PVC sheet, white",
+  "hersteller": "S-Polytec",
+  "kategorie": "kunststoff",
+  "status": "entwurf",
+  "notiz_de": "Gewicht aus der Angabe des Shops berechnet (2 × 1 m, 1 mm, 2,9 kg). Quelle: Beitrag im Fahrradwohnwagen-Forum.",
+  "notiz_en": "Weight calculated from the shop’s data (2 × 1 m, 1 mm, 2.9 kg). Source: post in the bicycle caravan forum.",
+  "erstellt_am": "2026-11-14 12:32:42",
+  "geaendert_am": "2026-11-14 12:32:42",
+  "werte": {
+    "staerke": {
+      "zahl": 1,
+      "einheit": "mm"
+    },
+    "gewicht": {
+      "zahl": 1.45,
+      "einheit": "kg/m²",
+      "vermerk_de": "ungeprüft",
+      "vermerk_en": "unverified"
+    }
+  },
+  "links": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": 79,
+  "name_de": "Garnica Ultralight_12",
+  "name_en": "Garnica Ultralight_12",
+  "hersteller": "Garnica",
+  "kategorie": "verbundplatte",
+  "status": "entwurf",
+  "notiz_de": "Pappelsperrholz mit XPS-Kern, Gewicht laut Angabe im Baumarkt (Bauhaus). Eine andere Angabe im Forum ergibt rund 3,9 kg/m² für 12 mm. Quelle: Beitrag im Fahrradwohnwagen-Forum.",
+  "notiz_en": "Poplar plywood with XPS core, weight as stated by the DIY store (Bauhaus). Another statement in the forum gives about 3.9 kg/m² for 12 mm. Source: post in the bicycle caravan forum.",
+  "erstellt_am": "2026-11-14 12:32:42",
+  "geaendert_am": "2026-11-14 12:32:42",
+  "werte": {
+    "staerke": {
+      "zahl": 12,
+      "einheit": "mm"
+    },
+    "gewicht": {
+      "zahl": 4.3,
+      "einheit": "kg/m²",
+      "vermerk_de": "ungeprüft",
+      "vermerk_en": "unverified"
+    }
+  },
+  "links": []
+}

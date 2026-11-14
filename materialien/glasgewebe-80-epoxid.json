@@ -1,0 +1,20 @@
+{
+  "id": 82,
+  "name_de": "Glasgewebe 80 g/m² mit Epoxidharz",
+  "name_en": "Glass fabric 80 g/m² with epoxy",
+  "kategorie": "textil",
+  "status": "entwurf",
+  "notiz_de": "Eigene Messung im Forum: 80 g Glasgewebe und rund 90 g Harz je m², auf Styrodur laminiert. Quelle: Beitrag im Fahrradwohnwagen-Forum.",
+  "notiz_en": "Own measurement in the forum: 80 g glass fabric and about 90 g resin per m², laminated on Styrodur. Source: post in the bicycle caravan forum.",
+  "erstellt_am": "2026-11-14 12:32:42",
+  "geaendert_am": "2026-11-14 12:32:42",
+  "werte": {
+    "gewicht": {
+      "zahl": 0.17,
+      "einheit": "kg/m²",
+      "vermerk_de": "ungeprüft",
+      "vermerk_en": "unverified"
+    }
+  },
+  "links": []
+}
