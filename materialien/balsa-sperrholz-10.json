@@ -18,5 +18,10 @@
       "einheit": "kg/m²"
     }
   },
-  "links": []
+  "links": [
+    {
+      "beschriftung": "Produktseite",
+      "url": "https://www.balsaholz-shop.de/de/Balsaholz--Balsaholzbrett-Birken-Sperrholz--Birkensperrholz--Balsaholz-shop-de--Modellbau--RC-Modellbau-Architektur-22-26-28.html"
+    }
+  ]
 }
