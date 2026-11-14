@@ -3,11 +3,9 @@
   "name_de": "Panzerband (Gewebeband)",
   "name_en": "Duct tape (cloth tape)",
   "kategorie": "staebe-leisten",
-  "status": "entwurf",
-  "notiz_de": "Laut Forum über 300 g/m² (ohne Lack oder weitere Beschichtung). Quelle: Beitrag im Fahrradwohnwagen-Forum.",
-  "notiz_en": "According to the forum more than 300 g/m² (without paint or further coating). Source: post in the bicycle caravan forum.",
+  "status": "veroeffentlicht",
   "erstellt_am": "2026-11-14 12:32:42",
-  "geaendert_am": "2026-11-14 12:32:42",
+  "geaendert_am": "2026-11-14 15:03:33",
   "werte": {
     "gewicht": {
       "zahl": 0.3,
