@@ -1,0 +1,30 @@
+{
+  "id": 74,
+  "name_de": "Reimo X-Trem Isolator",
+  "name_en": "Reimo X-Trem Isolator",
+  "hersteller": "Reimo Reisemobilcenter GmbH",
+  "kategorie": "schaum-daemmung",
+  "status": "entwurf",
+  "notiz_de": "Gewicht aus der Auskunft von Reimo berechnet (Platte 1000 × 2000 × 15 mm wiegt 0,9 kg). Quelle: Beitrag im Fahrradwohnwagen-Forum.",
+  "notiz_en": "Weight calculated from information from Reimo (a 1000 × 2000 × 15 mm sheet weighs 0.9 kg). Source: post in the bicycle caravan forum.",
+  "erstellt_am": "2026-11-14 12:24:25",
+  "geaendert_am": "2026-11-14 12:24:25",
+  "werte": {
+    "staerke": {
+      "zahl": 15,
+      "einheit": "mm"
+    },
+    "gewicht": {
+      "zahl": 0.45,
+      "einheit": "kg/m²",
+      "vermerk_de": "ungeprüft",
+      "vermerk_en": "unverified"
+    },
+    "material": {
+      "optionen": [
+        "PE (Polyethylen)"
+      ]
+    }
+  },
+  "links": []
+}

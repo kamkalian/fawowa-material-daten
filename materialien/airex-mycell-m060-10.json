@@ -1,0 +1,25 @@
+{
+  "id": 69,
+  "name_de": "Airex Mycell M060",
+  "name_en": "Airex Mycell M060",
+  "hersteller": "Airex",
+  "kategorie": "schaum-daemmung",
+  "status": "entwurf",
+  "notiz_de": "Früher als Airex C70.55 verkauft. Gewicht aus dem Plattengewicht berechnet (ca. 1,7 kg je Platte 2450 × 1150 mm). Quelle: Beitrag im Fahrradwohnwagen-Forum.",
+  "notiz_en": "Formerly sold as Airex C70.55. Weight calculated from the sheet weight (about 1.7 kg per sheet of 2450 × 1150 mm). Source: post in the bicycle caravan forum.",
+  "erstellt_am": "2026-11-14 12:24:25",
+  "geaendert_am": "2026-11-14 12:24:25",
+  "werte": {
+    "staerke": {
+      "zahl": 10,
+      "einheit": "mm"
+    },
+    "gewicht": {
+      "zahl": 0.6,
+      "einheit": "kg/m²",
+      "vermerk_de": "ungeprüft",
+      "vermerk_en": "unverified"
+    }
+  },
+  "links": []
+}

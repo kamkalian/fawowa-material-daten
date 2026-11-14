@@ -1,0 +1,30 @@
+{
+  "id": 71,
+  "name_de": "EPE-Schaum alukaschiert_30",
+  "name_en": "EPE foam, aluminium-faced_30",
+  "hersteller": "Steinbach AG (S-3500-AL100)",
+  "kategorie": "schaum-daemmung",
+  "status": "entwurf",
+  "notiz_de": "Gewicht laut Datenblatt, wie in einem Forenbeitrag genannt. Quelle: Beitrag im Fahrradwohnwagen-Forum.",
+  "notiz_en": "Weight according to the data sheet, as mentioned in a forum post. Source: post in the bicycle caravan forum.",
+  "erstellt_am": "2026-11-14 12:24:25",
+  "geaendert_am": "2026-11-14 12:24:25",
+  "werte": {
+    "staerke": {
+      "zahl": 30,
+      "einheit": "mm"
+    },
+    "gewicht": {
+      "zahl": 1,
+      "einheit": "kg/m²",
+      "vermerk_de": "ungeprüft",
+      "vermerk_en": "unverified"
+    },
+    "material": {
+      "optionen": [
+        "PE (Polyethylen)"
+      ]
+    }
+  },
+  "links": []
+}

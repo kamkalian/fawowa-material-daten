@@ -1,0 +1,25 @@
+{
+  "id": 75,
+  "name_de": "Sandwichplatte Hart-PVC mit XPS-Kern",
+  "name_en": "Sandwich panel, rigid PVC with XPS core",
+  "hersteller": "Holz-Mayrhofer",
+  "kategorie": "verbundplatte",
+  "status": "entwurf",
+  "notiz_de": "2 × 1,5 mm Hart-PVC-Deckschichten und 25 mm XPS-Kern, laut Anbieter U-Wert 0,98 W/m²K. Quelle: Beitrag im Fahrradwohnwagen-Forum.",
+  "notiz_en": "2 × 1.5 mm rigid PVC facings and 25 mm XPS core, according to the supplier U-value 0.98 W/m²K. Source: post in the bicycle caravan forum.",
+  "erstellt_am": "2026-11-14 12:24:25",
+  "geaendert_am": "2026-11-14 12:24:25",
+  "werte": {
+    "staerke": {
+      "zahl": 28,
+      "einheit": "mm"
+    },
+    "gewicht": {
+      "zahl": 5.5,
+      "einheit": "kg/m²",
+      "vermerk_de": "ungeprüft",
+      "vermerk_en": "unverified"
+    }
+  },
+  "links": []
+}
