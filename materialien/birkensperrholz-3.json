@@ -5,7 +5,7 @@
   "kategorie": "holz",
   "status": "entwurf",
   "erstellt_am": "2026-11-14 14:34:36",
-  "geaendert_am": "2026-11-15 06:04:43",
+  "geaendert_am": "2026-11-15 06:13:54",
   "werte": {
     "staerke": {
       "zahl": 3,
@@ -16,5 +16,10 @@
       "einheit": "kg/m²"
     }
   },
-  "links": []
+  "links": [
+    {
+      "beschriftung": "Produktlink",
+      "url": "https://auprotec.de/de/zuschnitt/sperrholz-platten/3-mm-sperrholzplatten-aus-birke-zuschnitt-auf-mass/p/005077?_fc_state=0"
+    }
+  ]
 }
