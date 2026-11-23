@@ -2,10 +2,11 @@
   "id": 20,
   "name_de": "Pappelsperrholz",
   "name_en": "Poplar plywood",
+  "hersteller": "Kosche Holzwerkstoffe GmbH & Co.KG",
   "kategorie": "holz",
   "status": "veroeffentlicht",
   "erstellt_am": "2026-11-11 13:53:46",
-  "geaendert_am": "2026-11-12 08:49:26",
+  "geaendert_am": "2026-11-23 06:47:02",
   "werte": {
     "staerke": {
       "zahl": 3,
