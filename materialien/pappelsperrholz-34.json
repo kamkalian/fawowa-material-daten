@@ -17,5 +17,10 @@
       "einheit": "kg/m²"
     }
   },
-  "links": []
+  "links": [
+    {
+      "beschriftung": "Toom Produktlink",
+      "url": "https://toom.de/p/sperrholzplatte-pappel-1200-x-600-x-6-mm/7100603"
+    }
+  ]
 }
