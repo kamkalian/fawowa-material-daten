@@ -19,5 +19,10 @@
       "einheit": "kg/m²"
     }
   },
-  "links": []
+  "links": [
+    {
+      "beschriftung": "Epicply Produktlink",
+      "url": "https://epicply.de/products/rohplatte-4-mm"
+    }
+  ]
 }
