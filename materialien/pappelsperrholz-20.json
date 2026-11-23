@@ -1,12 +1,12 @@
 {
   "id": 20,
-  "name_de": "Pappelsperrholz 3 mm",
+  "name_de": "Pappelsperrholz_3mm",
   "name_en": "Poplar plywood",
   "hersteller": "Kosche Holzwerkstoffe GmbH & Co.KG",
   "kategorie": "holz",
   "status": "veroeffentlicht",
   "erstellt_am": "2026-11-11 13:53:46",
-  "geaendert_am": "2026-11-23 06:53:12",
+  "geaendert_am": "2026-11-23 06:54:00",
   "werte": {
     "staerke": {
       "zahl": 3,
