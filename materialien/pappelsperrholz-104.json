@@ -6,13 +6,14 @@
   "kategorie": "holz",
   "status": "entwurf",
   "erstellt_am": "2026-11-23 06:49:33",
-  "geaendert_am": "2026-11-23 06:49:51",
+  "geaendert_am": "2026-11-23 06:51:49",
   "werte": {
     "staerke": {
       "zahl": 8,
       "einheit": "mm"
     },
     "gewicht": {
+      "zahl": 3.2,
       "einheit": "kg/m²"
     }
   },
