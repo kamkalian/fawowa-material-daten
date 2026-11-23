@@ -17,5 +17,10 @@
       "einheit": "kg/m²"
     }
   },
-  "links": []
+  "links": [
+    {
+      "beschriftung": "Toom Produktlink",
+      "url": "https://toom.de/p/sperrholzplatte-pappel-1000-x-500-x-3-mm/7171464"
+    }
+  ]
 }
