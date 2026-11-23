@@ -2,10 +2,11 @@
   "id": 24,
   "name_de": "Pappelsperrholz",
   "name_en": "Poplar plywood",
+  "hersteller": "Robert Neudeck GmbH & Co. KG",
   "kategorie": "holz",
   "status": "veroeffentlicht",
   "erstellt_am": "2026-11-11 13:53:46",
-  "geaendert_am": "2026-11-23 06:45:06",
+  "geaendert_am": "2026-11-23 06:45:36",
   "werte": {
     "staerke": {
       "zahl": 4,
