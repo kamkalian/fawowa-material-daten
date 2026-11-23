@@ -5,7 +5,7 @@
   "kategorie": "holz",
   "status": "veroeffentlicht",
   "erstellt_am": "2026-11-11 13:53:46",
-  "geaendert_am": "2026-11-12 08:49:30",
+  "geaendert_am": "2026-11-23 06:45:06",
   "werte": {
     "staerke": {
       "zahl": 4,
@@ -16,5 +16,10 @@
       "einheit": "kg/m²"
     }
   },
-  "links": []
+  "links": [
+    {
+      "beschriftung": "Toom Produktlink",
+      "url": "https://toom.de/p/sperrholzplatte-pappel-1200-x-600-x-4-mm/7100604"
+    }
+  ]
 }
